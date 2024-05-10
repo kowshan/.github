@@ -1,13 +1,26 @@
-<div>
-  <img align="center" src="https://3.bp.blogspot.com/-lHDshf7JYmk/UKVfr3SfCBI/AAAAAAAAAQU/nby47SisLKY/s1600/banner+memes.jpg" width=1000 height=200 style="border-radious=30%">
-  <img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  <h3 align="left"><b>Welcome to BallSek</b></h3>
-  <p align="left"><b>Meme Scripts | Funny Projects | Trolling Stuff</b></p>
+<div align="center">
+  <img align="center" src="https://github.com/kowshan/.github/assets/118578799/4e20faf9-8663-4d46-8bc5-b7df5d88e7e9" width=300 height=300 style="border-radious=30%">
+  <h3 align="center"><b>⌗ Welcome </b></h3>
+  <p align="cneter">Nothing here yet... Maybe later!</p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://kourva.github.io">
+          <img src="https://avatars.githubusercontent.com/u/118578799?v=4" width="100px;" alt="Mike Kourva"/><br/>
+        </a>
+        <sub><b>Mike Kourva</b></sub><br>
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px"><br>
+        <sup><b>Python Developer</b></sup><br>
+        <a href="https://kourva.github.io/talk" title="SocialMedia">💬</a>
+        <a href="https://kourva.github.io" title="About">👾</a>
+        <a href="https://kourva.github.io/tools" title="Tools">🛠</a>
+        <a href="https://github.com/kourva" title="Github">🌐</a>
+      </td>
+    </tr>
+  </tbody>
+</table>

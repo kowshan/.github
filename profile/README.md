@@ -14,6 +14,7 @@
           <img src="https://avatars.githubusercontent.com/u/118578799?v=4" width="100px;" alt="Mike Kourva"/><br/>
         </a>
         <sub><b>Mike Kourva</b></sub><br>
+        <sub><p>Founder</p></sub>
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px"><br>
         <sup><b>Python Developer</b></sup><br>
         <a href="https://kourva.github.io/talk" title="SocialMedia">💬</a>

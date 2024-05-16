@@ -16,11 +16,24 @@
         <sub><b>Mike Kourva</b></sub><br>
         <sub><p>Founder</p></sub>
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px"><br>
-        <sup><b>Python Developer</b></sup><br>
-        <a href="https://kourva.github.io/talk" title="SocialMedia">💬</a>
+        <sup><b>Python Dev</b></sup><br>
+        <a href="#" title="SocialMedia">💬</a>
         <a href="https://kourva.github.io" title="About">👾</a>
-        <a href="https://kourva.github.io/tools" title="Tools">🛠</a>
+        <a href="#" title="Tools">🛠</a>
         <a href="https://github.com/kourva" title="Github">🌐</a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="#">
+          <img src="https://avatars.githubusercontent.com/u/166230319?v=4" width="100px;" alt="Capella"/><br/>
+        </a>
+        <sub><b>Capella</b></sub><br>
+        <sub><p>Owner</p></sub>
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px"><br>
+        <sup><b>Front-End Dev</b></sup><br>
+        <a href="#" title="SocialMedia">💬</a>
+        <a href="#" title="About">👾</a>
+        <a href="#" title="Tools">🛠</a>
+        <a href="#" title="Github">🌐</a>
       </td>
     </tr>
   </tbody>

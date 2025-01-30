@@ -16,10 +16,10 @@
         <sub><b>Kourva</b></sub><br>
         <sub><p>Founder</p></sub>
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100px"><br>
-        <sup><b>Python Dev</b></sup><br>
+        <sup><b>FullStack Dev</b></sup><br>
         <a href="#" title="SocialMedia">💬</a>
-        <a href="https://kourva.github.io" title="About">👾</a>
-        <a href="#" title="Tools">🛠</a>
+        <a href="https://kourva.github.io" title="Website">👾</a>
+        <a href="https://kourva.pages.dev" title="Website">🛠</a>
         <a href="https://github.com/kourva" title="Github">🌐</a>
       </td>
     </tr>

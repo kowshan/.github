@@ -23,7 +23,7 @@
         <a href="https://github.com/Kourva">GitHub ⌕</a> 
         <a href="https://kourva.github.io">Site ⌕</a>
         <a href="https://t.me/k0urv4">Telegram ⌕</a> 
-        <a href="https://insragram.com/k0urv4">Instagram ⌕</a>
+        <a href="https://instagram.com/k0urv4">Instagram ⌕</a>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
         <a href="https://github.com/V-CodeSmith">GitHub ⌕</a> 
         <a href="https://v-codesmith.github.io">Site ⌕</a>
         <a href="https://t.me/mamadx008">Telegram ⌕</a> 
-        <a href="https://insragram.com/mohammad_azhdari81">Instagram ⌕</a>
+        <a href="https://instagram.com/mohammad_azhdari81">Instagram ⌕</a>
     </td>
       
   </tr>
@@ -46,7 +46,7 @@
         <a href="https://github.com/Hesamabbasnezhad">GitHub ⌕</a> 
         <a href="https://hesamabbasnezhad.github.io">Site ⌕</a>
         <a href="https://t.me/hesam746">Telegram ⌕</a> 
-        <a href="https://insragram.com/hesam.abbasnezhad">Instagram ⌕</a>
+        <a href="https://instagram.com/hesam.abbasnezhad">Instagram ⌕</a>
     </td>
   </tr>
   <tr>
